@@ -6,3 +6,9 @@ Repositório com os exemplos utilizados durante a palestra que foi apresentada n
 **Web crawling e scraping: Extraindo dados da web com Python**
 
 slide: http://slides.com/felipeandrade-2/web-crawler/#/
+
+### A instalação das blibiotecas necessarias
+
+```sh
+pip install -r requiments.txt
+```
