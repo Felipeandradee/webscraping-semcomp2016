@@ -8,7 +8,7 @@ Repositório com os exemplos utilizados durante a palestra que foi apresentada n
 slide: http://slides.com/felipeandrade-2/web-crawler/#/
 
 
-** Link das documentações **
+### Links das documentações
 
 Python: https://docs.python.org
 
@@ -19,7 +19,7 @@ Parsel: http://parsel.readthedocs.io
 RegEx: https://docs.python.org/library/re.html
 
 
-### A instalação das bibliotecas necessárias
+### Instalação das bibliotecas necessárias
 
 ```sh
 pip install -r requiments.txt
