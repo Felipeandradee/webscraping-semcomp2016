@@ -22,5 +22,5 @@ RegEx: https://docs.python.org/library/re.html
 ### Instalação das bibliotecas necessárias
 
 ```sh
-pip install -r requiments.txt
+pip install -r requirements.txt
 ```
